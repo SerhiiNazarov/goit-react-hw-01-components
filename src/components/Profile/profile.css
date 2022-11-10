@@ -1,0 +1,39 @@
+.profile {
+  margin: 20px 200px;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  border-radius: 10px;
+}
+
+.avatar {
+  margin-top: 15px;
+  width: 150px;
+  background-color: antiquewhite;
+  border-radius: 50%;
+}
+
+.tag {
+  color: rgb(119, 119, 119);
+}
+
+.location {
+  color: rgb(119, 119, 119);
+}
+
+.stats {
+  display: flex;
+  background-color: rgb(246, 242, 237);
+}
+
+.stats__item {
+  border: 2px solid rgb(120, 119, 119);
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.quantity {
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
